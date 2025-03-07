@@ -32,12 +32,12 @@ document.writeln("       <li id=\'tabwangzw6\' onClick=\'setTab(\"tabwangzw\",6,
 document.writeln("	</ul>");
 document.writeln("</div>");
 document.writeln("<div class=\'Contentbox\'> ");
-document.writeln("	<div id=\'con_tabwangzw_1\'><img src=\'/wzwtu/wzw01.jpg\'></div>");
-document.writeln("	<div id=\'con_tabwangzw_2\' style=\'display:none\'><img src=\'/wzwtu/wzw02.jpg\'></div>");
-document.writeln("	<div id=\'con_tabwangzw_3\' style=\'display:none\'><img src=\'/wzwtu/wzw03.jpg\'></div>");
-document.writeln("	<div id=\'con_tabwangzw_4\' style=\'display:none\'><img src=\'/wzwtu/wzw04.jpg\'></div>");
-document.writeln("	<div id=\'con_tabwangzw_5\' style=\'display:none\'><img src=\'/wzwtu/wzw05.jpg\'></div>");
-document.writeln("	<div id=\'con_tabwangzw_6\' style=\'display:none\'><img src=\'/wzwtu/wzw06.jpg\'></div>");
+document.writeln("	<div id=\'con_tabwangzw_1\'><img src=\'./wzwtu/wzw01.jpg\'></div>");
+document.writeln("	<div id=\'con_tabwangzw_2\' style=\'display:none\'><img src=\'./wzwtu/wzw02.jpg\'></div>");
+document.writeln("	<div id=\'con_tabwangzw_3\' style=\'display:none\'><img src=\'./wzwtu/wzw03.jpg\'></div>");
+document.writeln("	<div id=\'con_tabwangzw_4\' style=\'display:none\'><img src=\'./wzwtu/wzw04.jpg\'></div>");
+document.writeln("	<div id=\'con_tabwangzw_5\' style=\'display:none\'><img src=\'./wzwtu/wzw05.jpg\'></div>");
+document.writeln("	<div id=\'con_tabwangzw_6\' style=\'display:none\'><img src=\'./wzwtu/wzw06.jpg\'></div>");
 document.writeln("</div>");
 document.writeln("</div>");
 function setTab(name,cursel,n){
