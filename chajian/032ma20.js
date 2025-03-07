@@ -46,10 +46,40 @@ document.writeln("</tr>");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40><b>");
+document.writeln("<font color=\'#000000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>066期</font><font color=\'#339933\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>精选20码</font></b><br>");
+document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>【02.04.05.06.07.08.09.10.23.24】<br>【27.28.29.30.31.35.36.37.38.39】</font></b></td>");
+document.writeln("</tr>");
+
+
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40><b>");
 document.writeln("<font color=\'#000000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>065期</font><font color=\'#339933\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>精选20码</font></b><br>");
-document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>【02.03.07.16.17.18.19.20.21.31】<br>【35.38.41.42.43.44.45.46.47.48】</font></b></td>");
+document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>【02.03.07.16.17.18.19.20.21.31】<br>【35.38.41.42.43.44.45.46.47.<span style=\'background-color: #FFFF00\'>48</span>】</font></b></td>");
 document.writeln("</tr>");
  
  

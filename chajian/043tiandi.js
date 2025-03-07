@@ -69,15 +69,15 @@ document.writeln("</tr>	");
 
 
 
-
-
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("065期</strong><span class=\'styleliao\'><strong>天地生肖</strong></span>:<span class=\'stylezi\'><strong>地肖</strong></span><strong> 开:？00准");
+document.writeln("066期</strong><span class=\'styleliao\'><strong>天地生肖</strong></span>:<span class=\'stylezi\'><strong>地肖</strong></span><strong> 开:？00准");
 document.writeln("</strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 
+
+ 
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");

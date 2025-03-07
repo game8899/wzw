@@ -16,9 +16,45 @@ document.writeln("");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.writeln("		");
+document.writeln("							<tr>");
+document.writeln("			<td align=\'center\' height=40><b>");
+document.writeln("			<font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>066期:</font><font color=\'#996633\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>单尾</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>【1579】</font><font color=\'#996633\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>双尾</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>【2468】开</font><font color=\'#FF0000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>？00</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>赢</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("");
+
+
 document.writeln("				<tr>");
 document.writeln("			<td align=\'center\' height=40><b>");
-document.writeln("			<font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>065期:</font><font color=\'#996633\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>单尾</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>【1359】</font><font color=\'#996633\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>双尾</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>【0268】开</font><font color=\'#FF0000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>？00</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>赢</font></b></td>");
+document.writeln("			<font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>065期:</font><font color=\'#996633\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>单尾</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>【1359】</font><font color=\'#996633\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>双尾</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>【026<span style=\'background-color: #FFFF00\'>8</span>】开</font><font color=\'#FF0000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>马48</font><font color=\'#000000\' style=\'font-size: 12pt\' face=\'方正粗黑宋简体\'>赢</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("");

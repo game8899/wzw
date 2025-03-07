@@ -73,14 +73,20 @@ document.writeln("		</tr>");
 
 
 
-
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40><b>");
+document.writeln("<font color=\'#000000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>066期</font><font color=\'#339933\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>四肖八码</font></b><br>");
+document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>【蛇:25.49】【鸡:21.33】<br>【狗:32.44】【兔:15.39】</font></b></td>");
+document.writeln("</tr>");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40><b>");
 document.writeln("<font color=\'#000000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>065期</font><font color=\'#339933\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>四肖八码</font></b><br>");
-document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>【牛:17.41】【猪:19.43】<br>【猴:22.46】【马:12.36】</font></b></td>");
+document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'方正粗黑宋简体\'>【牛:17.41】【猪:19.43】<br>【猴:22.46】【<span style=\'background-color: #FFFF00\'>马</span>:12.36】</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("");

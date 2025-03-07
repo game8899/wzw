@@ -69,11 +69,9 @@ document.writeln("</tr>	");
 
 
 
-
-
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("065期</strong>:【<span class=\'stylezi\'><strong>鼠虎+10.22.34.46.09.21.33.45</strong></span><strong>】 开:？00准");
+document.writeln("066期</strong>:【<span class=\'stylezi\'><strong>马鸡+16.28.40.04.08.20.32.44</strong></span><strong>】 开:？00准");
 document.writeln("</strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");

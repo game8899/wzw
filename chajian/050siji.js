@@ -72,12 +72,19 @@ document.writeln("</tr>	");
 
 
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("066期</strong><span class=\'styleliao\'><strong>四季生肖</strong></span>:<span class=\'stylezi\'><strong>春冬夏肖</strong></span><strong> 开:？00准");
+document.writeln("</strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+
 
 
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("065期</strong><span class=\'styleliao\'><strong>四季生肖</strong></span>:<span class=\'stylezi\'><strong>春冬夏肖</strong></span><strong> 开:？00准");
+document.writeln("065期</strong><span class=\'styleliao\'><strong>四季生肖</strong></span>:<span class=\'stylezi\'><strong>春冬<span style=\'background-color: #FFFF00\'>夏</span>肖</strong></span><strong> 开:马48准");
 document.writeln("</strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");

@@ -27,7 +27,7 @@ div.ftop{position:fixed;top:0;z-index:999}
 .go6h_header .go6h_header_li:active{background-color:#008000}
 .go6h_header .go6h_header_li:active i{background-size:16.5px}
 .go6h_header .go6h_header_li.go6h_header_logo{padding-left:5px}
-.go6h_header .go6h_header_li.go6h_header_logo span{background:url("../tu/logo.png") no-repeat 10px;display:block;height:50px;width:180px;background-size:contain;background-position:50%;}
+.go6h_header .go6h_header_li.go6h_header_logo span{background:url("/tu/logo.png") no-repeat 10px;display:block;height:50px;width:180px;background-size:contain;background-position:50%;}
 .go6h_header_right{float:right;font-size:16px;height:35px;padding-top:5px}
 .go6h_header_right ul{width:174px;}
 .go6h_header_right ul li{}

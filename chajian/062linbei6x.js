@@ -54,7 +54,7 @@ document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("065期</strong><span class=\'styleliao\'><strong>林北六肖</strong></span>:【<span class=\'stylezi\'><strong>鼠免龙羊鸡猪</strong></span><strong>】 开:？00准");
+document.writeln("066期</strong><span class=\'styleliao\'><strong>林北六肖</strong></span>:【<span class=\'stylezi\'><strong>牛马羊鸡狗猪</strong></span><strong>】 开:？00准");
 document.writeln("</strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
@@ -67,47 +67,6 @@ document.writeln("</strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("061期</strong><span class=\'styleliao\'><strong>林北六肖</strong></span>:【<span class=\'stylezi\'><strong>兔龙蛇马羊<span style=\'background-color: #FFFF00\'>猴</span></strong></span><strong>】 开:猴10准");
-document.writeln("</strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("060期</strong><span class=\'styleliao\'><strong>林北六肖</strong></span>:【<span class=\'stylezi\'><strong>鼠牛虎兔马<span style=\'background-color: #FFFF00\'>羊</span></strong></span><strong>】 开:羊11准");
-document.writeln("</strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("059期</strong><span class=\'styleliao\'><strong>林北六肖</strong></span>:【<span class=\'stylezi\'><strong>虎兔<span style=\'background-color: #FFFF00\'>马</span>羊狗猪</strong></span><strong>】 开:马24准");
-document.writeln("</strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("058期</strong><span class=\'styleliao\'><strong>林北六肖</strong></span>:【<span class=\'stylezi\'><strong>马羊猴鸡狗<span style=\'background-color: #FFFF00\'>猪</span></strong></span><strong>】 开:猪31准");
-document.writeln("</strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("057期</strong><span class=\'styleliao\'><strong>林北六肖</strong></span>:【<span class=\'stylezi\'><strong>蛇羊鸡<span style=\'background-color: #FFFF00\'>狗</span>鼠虎</strong></span><strong>】 开:狗20准");
-document.writeln("</strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
- 
  
  
 

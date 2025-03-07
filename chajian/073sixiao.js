@@ -50,15 +50,14 @@ document.writeln("</tr>	");
 
 
 
-
-
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("065期</strong><span class=\'styleliao\'><strong>四肖中特</strong></span>:<span class=\'stylezi\'><strong>猴虎鸡牛</strong></span><strong> 开:？00准");
+document.writeln("066期</strong><span class=\'styleliao\'><strong>四肖中特</strong></span>:<span class=\'stylezi\'><strong>龙兔猴鼠</strong></span><strong> 开:？00准");
 document.writeln("</strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 
+ 
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");

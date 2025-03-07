@@ -11,10 +11,11 @@ document.writeln("<span class=\'styleliao\'>特邀高手：【春风化雨】【
 document.writeln("</td>");
 document.writeln("</tr>	");	
 
-
-
-
-
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'>");
+document.writeln("<span class=\'stylezi\'><strong>王中王启用新域名885560.com,请广大彩民互相通知</strong></span>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 
 
@@ -35,7 +36,15 @@ document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("065期</strong><span class=\'styleliao\'><strong>一波中特</strong></span>:【<span class=\'stylezi\'><strong>蓝波</strong></span><strong>】 开:？00准");
+document.writeln("066期</strong><span class=\'styleliao\'><strong>一波中特</strong></span>:【<span class=\'stylezi\'><strong>红波</strong></span><strong>】 开:？00准");
+document.writeln("</strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+
+
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("065期</strong><span class=\'styleliao\'><strong>一波中特</strong></span>:【<span class=\'stylezi\'><strong>蓝波</strong></span><strong>】 开:马48准");
 document.writeln("</strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");

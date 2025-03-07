@@ -44,11 +44,7 @@ document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'>");
 document.writeln("<strong>【<span class=\'stylezi\'><strong>特邀高手：隐刺 『五肖』</strong></span>】");
 document.writeln("</td>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'>");
-document.writeln("</td>");
 document.writeln("</tr>	");
-
-
 
 
 
@@ -77,11 +73,10 @@ document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("065期</strong><span class=\'styleliao\'><strong>五肖中特</strong></span>:<span class=\'stylezi\'><strong>狗猴牛羊鼠</strong></span><strong> 开:？00准");
+document.writeln("066期</strong><span class=\'styleliao\'><strong>五肖中特</strong></span>:<span class=\'stylezi\'><strong>龙兔鸡马猪</strong></span><strong> 开:？00准");
 document.writeln("</strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
-
 
  
 
